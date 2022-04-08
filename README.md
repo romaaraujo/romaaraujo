@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Olá, me chamo Romário Araújo...
 
-<!--
-**romaaraujo/romaaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 Atualmente trabalho na empresa SuporteGerencial, no Recife, como desenvolvedor.
 
-Here are some ideas to get you started:
+📚 Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Você também pode entrar em contato comigo pelo Linkedin: https://www.linkedin.com/in/romaaraujo/.
+
+<hr/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaaraujo&layout=compact&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api?username=romaaraujo&show_icons=true&theme=dark" />
+</a>
