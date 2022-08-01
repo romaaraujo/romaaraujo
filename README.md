@@ -1,11 +1,5 @@
 ## 👋 Olá, me chamo Romário Araújo...
 
-🔨 Atualmente trabalho na empresa SuporteGerencial, no Recife, como desenvolvedor.
-
-📚 Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE).
-
-🔗 Você também pode entrar em contato comigo pelo Linkedin: https://www.linkedin.com/in/romaaraujo/.
-
 <hr/>
 <br clear="both">
 
